@@ -1,0 +1,17 @@
+# editorconfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+<<<<<<< HEAD
+=======
+
+[*.php]
+indent_size = 4
+>>>>>>> 44b515d1f343df3e0a1bb74cf04ca9508716fe4a
