@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a0722b2570982cff837f9200f8a5e85a",
-    "content-hash": "280818e1983e53a3fd3f024ce34d5d80",
+    "hash": "d1c9a4b441d59bd72d9a23865a059796",
+    "content-hash": "733927ed1c4d8aca9d2136532f9aa272",
     "packages": [
         {
             "name": "composer/installers",
@@ -382,6 +382,26 @@
                 "environment"
             ],
             "time": "2016-04-15 10:48:49"
+        },
+        {
+            "name": "wpackagist-plugin/arconix-faq",
+            "version": "1.6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/arconix-faq/",
+                "reference": "tags/1.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/arconix-faq.1.6.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/arconix-faq/"
         }
     ],
     "packages-dev": [
