@@ -1,3 +1,0 @@
-[submodule "web/app/themes/wimon-theme"]
-	path = web/app/themes/wimon-theme
-	url = git@github.com:/asksac/wimon-theme.git
