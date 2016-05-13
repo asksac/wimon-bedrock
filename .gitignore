@@ -31,4 +31,4 @@ bin
 .vagrant
 
 # Ignoring Themes directory, as it is tracked via its own repo
-web/app/themes/*
+# web/app/themes/*
